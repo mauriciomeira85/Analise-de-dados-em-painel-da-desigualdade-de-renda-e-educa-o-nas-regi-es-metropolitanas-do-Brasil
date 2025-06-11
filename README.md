@@ -4,7 +4,7 @@ Analisa a relação entre desigualdade de renda e educação nas regiões metrop
 
 # 1. Introdução
 
-Esta pesquisa se propõe a analisar a relação entre desigualdade de renda e educação nas regiões metropolitanas do Brasil, utilizando uma abordagem de dados em painel que permite investigar a dinâmica da desigualdade ao longo do tempo. A partir de dados da Pesquisa Nacional por Amostra de Domicílios (PNAD) entre 2013 e 2023, o estudo busca responder à seguinte questão: qual o impacto da educação sobre a desigualdade de renda nas regiões metropolitanas brasileiras? A análise econométrica com dados em painel, combinada com a inclusão de variáveis de controle relevantes, visa aprofundar a compreensão sobre os determinantes da desigualdade de renda e fornecer subsídios para a formulação de políticas públicas eficazes de combate à desigualdade e promoção da justiça social. 
+Esta pesquisa se propõe a analisar a relação entre desigualdade de renda e educação nas regiões metropolitanas do Brasil, utilizando uma abordagem de dados em painel que permite investigar a dinâmica da desigualdade ao longo do tempo. A partir de dados da Pesquisa Nacional por Amostra de Domicílios (PNAD) entre 2013 e 2023, o estudo busca responder à seguinte questão: qual o impacto da educação sobre a desigualdade de renda nas regiões metropolitanas brasileiras?
 
 # 2. Objetivo
 
